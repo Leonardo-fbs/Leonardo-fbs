@@ -1,7 +1,7 @@
 # __Osu! Sou o Leonardo Feijo__
 
 - 🔭 Hoje trabalho como jovem aprendiz
-- 🌱 Estou estudando desenvolvimento web mais a afundo e desenvolvimento Mobile
+- 🌱 Estou estudando desenvolvimento Web e desenvolvimento Mobile mais a afundo
 - 😄 Pronouns: Ele/dele
 <div align="center">
   <a href="https://github.com/Leonardo-fbs">
