@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como jovem aprendiz
 - 🌱 Estou estudando desenvolvimento Web e desenvolvimento Mobile mais a afundo
-- 😄 Pronouns: Ele/dele
+
 <div align="center">
   <a href="https://github.com/Leonardo-fbs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-fbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
