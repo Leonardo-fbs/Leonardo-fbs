@@ -1,9 +1,7 @@
 Hop! Me chamo Leonardo Feijo
 
 Cursando Engenheiro de Software
-- 🌱 Futuro Brigadiano e 
-- Servi o ano obrigadorio no EB
-- 
+
 
 <div align="center">
   <a href="https://github.com/Leonardo-fbs">
