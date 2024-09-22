@@ -1,7 +1,9 @@
-# __Osu! Sou o Leonardo Feijo__
+Hop! Me chamo Leonardo Feijo
 
-- 🔭 Hoje trabalho como jovem aprendiz
-- 🌱 Estou estudando desenvolvimento Web e desenvolvimento Mobile mais a afundo
+Cursando Engenheiro de Software
+- 🌱 Futuro Brigadiano e 
+- Servi o ano obrigadorio no EB
+- 
 
 <div align="center">
   <a href="https://github.com/Leonardo-fbs">
