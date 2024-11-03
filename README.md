@@ -1,7 +1,9 @@
 Hop! Me chamo Leonardo Feijo
 
-Cursando Engenheiro de Software
-
+:gear: Cursando Engenheiro de Software 
+:computer: Estudando na Alura
+:books: Always Reading
+:boxing_glove: Atleta :running:
 
 <div align="center">
   <a href="https://github.com/Leonardo-fbs">
